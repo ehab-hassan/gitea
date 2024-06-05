@@ -62,7 +62,7 @@ HTTP/1.1 200 OK
 
 {
   "status": "pass",
-  "description": "Gitea: Git with a cup of tea",
+  "description": "THREEFOLD",
   "checks": {
     "cache:ping": [
       {

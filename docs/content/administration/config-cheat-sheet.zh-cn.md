@@ -66,7 +66,7 @@ menu:
 
 ## Overall (`DEFAULT`)
 
-- `APP_NAME`: **Gitea: Git with a cup of tea** 应用名称，在网页的标题中显示。
+- `APP_NAME`: **THREEFOLD** 应用名称，在网页的标题中显示。
 - `RUN_USER`: **_current OS username_/`$USER`/`$USERNAME` e.g. git**: 运行Gitea的用户，
   应当是一个专用的系统账户(非用户使用，推荐创建一个专用的`git`用户). 如果在你自己的个人电脑使用改成你自己的用户名。
   该配置如果设置不正确，Gitea可能崩溃。

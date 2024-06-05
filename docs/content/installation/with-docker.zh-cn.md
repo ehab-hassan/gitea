@@ -236,7 +236,7 @@ MySQL 或 PostgreSQL 容器将需要分别创建。
 
 （默认值以**粗体**显示）
 
-- `APP_NAME`：**“Gitea: Git with a cup of tea”**：应用程序名称，在页面标题中使用。
+- `APP_NAME`：**“THREEFOLD”**：应用程序名称，在页面标题中使用。
 - `RUN_MODE`：**prod**：应用程序运行模式，会影响性能和调试。"dev"，"prod"或"test"。
 - `DOMAIN`：**localhost**：此服务器的域名，用于 Gitea UI 中显示的 http 克隆 URL。
 - `SSH_DOMAIN`：**localhost**：该服务器的域名，用于 Gitea UI 中显示的 ssh 克隆 URL。如果启用了安装页面，则 SSH 域服务器将采用以下形式的 DOMAIN 值（保存时将覆盖此设置）。

@@ -66,7 +66,7 @@ In addition, there is _`StaticRootPath`_ which can be set as a built-in at build
 
 ## Overall (`DEFAULT`)
 
-- `APP_NAME`: **Gitea: Git with a cup of tea**: Application name, used in the page title.
+- `APP_NAME`: **THREEFOLD**: Application name, used in the page title.
 - `RUN_USER`: **_current OS username_/`$USER`/`$USERNAME` e.g. git**: The user Gitea will run as.
    This should be a dedicated system (non-user) account. Setting this incorrectly will cause Gitea
    to not start.
